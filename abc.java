@@ -1,7 +1,7 @@
-public class abc {
+public class abc{
     public static void main(String args[]){
         int a=10;
         int b=20;
-        System.out.print("sum=",a+b);
+        System.out.println("sum=",a+b);
     }
 }
